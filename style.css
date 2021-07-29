@@ -1,0 +1,22 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+body {
+    background-image: url('images/background.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+resume {
+    height: 100vh;
+    width: 49vw;
+    max-width: 480px;
+    float: left;
+    border: none;
+    margin: 0;
+    padding: 0;
+}
